@@ -44,7 +44,7 @@ export default function TermsCondition(){
               justifyContent={["center"]}
               flexDirection={["column"]}
               fontFamily={["Poppins"]}
-              fontSize={["10px", "12px"]} // Increased font size
+              fontSize={["10px", "13px"]} // Increased font size
             >
               <p>
                 Welcome to Mega Pari! By using our platform, you agree to comply
