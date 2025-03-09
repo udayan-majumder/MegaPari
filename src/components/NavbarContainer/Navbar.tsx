@@ -1,9 +1,9 @@
 'use client'
-import { Box, VStack, HStack, Button } from "@chakra-ui/react";
+import { Box, HStack, Button } from "@chakra-ui/react";
 import { Image } from "@chakra-ui/react";
 import { useState } from "react";
 import Link from 'next/link'
-import { Poppins,Open_Sans,Roboto ,Raleway} from "next/font/google";
+
 import { Menu } from "lucide-react";
 export const GetNavbar=()=> {
   const [Hamburger,setHamburger] = useState(false)
@@ -40,6 +40,7 @@ export const GetNavbar=()=> {
           <Image
             height={["30px","40px","50px"]}
             src="https://v3.traincdn.com/genfiles/cms/192-824/desktop/media_asset/39b027cf6619aa7814a4f426943fc3f7.svg"
+            alt=""
           ></Image>
           <Button
             height="25px"

@@ -1,6 +1,5 @@
 import { MainWrapper } from "@/components/MainBackground/MainContainer";
 import {
-  Image,
   Box,
   VStack,
   HStack,

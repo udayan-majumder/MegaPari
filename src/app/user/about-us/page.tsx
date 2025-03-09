@@ -42,6 +42,7 @@ export default function Aboutpage() {
             <Image
               height={["28px", "40px"]}
               src="https://megapari.com.in/wp-content/uploads/2021/12/logo-sm.webp"
+              alt=""
             ></Image>
           </HStack>
           <Box

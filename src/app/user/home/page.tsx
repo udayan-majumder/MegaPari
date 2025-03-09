@@ -37,6 +37,7 @@ export default function Homepage() {
             position={["absolute"]}
             backgroundSize={"cover"}
             backgroundRepeat={"repeat"}
+            alt=""
            
           ></Image>
           <Box
@@ -50,6 +51,7 @@ export default function Homepage() {
               src="https://megapari.com.in/wp-content/uploads/2021/12/logo-sm.webp"
               backgroundSize="cover"
               width={["200px", "250px", "800px"]}
+              alt=""
             ></Image>
             <Text
               width={["100%", "100%"]}
