@@ -38,7 +38,7 @@ export default function RootLayout({
 const router = useRouter()
 useEffect(()=>{
   router.push('/user/home')
-},[])
+},[router])
 
   return (
     <html lang="en" suppressHydrationWarning>

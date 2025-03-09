@@ -9,7 +9,7 @@ import {
  
 } from "@chakra-ui/react";
 import { MainWrapper } from "@/components/MainBackground/MainContainer";
-import { Gauge, LockKeyhole, ChartLine, Scale ,CircleCheckBig,ShieldCheck ,Gamepad2,CalendarDays,UsersRound,Trophy,ChartNoAxesCombined,Gift,ShieldQuestion} from "lucide-react";
+import { Gauge, LockKeyhole, ChartLine, Scale ,ShieldCheck ,Gamepad2,CalendarDays,UsersRound,Trophy,ChartNoAxesCombined,Gift,ShieldQuestion} from "lucide-react";
 export default function Homepage() {
   return (
     <MainWrapper>
