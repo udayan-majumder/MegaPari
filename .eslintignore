@@ -1,0 +1,3 @@
+
+# Ignore a directory
+src/app/user/*
