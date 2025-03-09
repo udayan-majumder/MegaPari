@@ -7,9 +7,6 @@ import {
   HStack,
   Text,
   Button,
-  Grid,
-  Flex,
-  Center,
 } from "@chakra-ui/react";
 export default function TermsCondition(){
     return (

@@ -6,9 +6,7 @@ import {
   HStack,
   Text,
   Button,
-  Grid,
-  Flex,
-  Center,
+ 
 } from "@chakra-ui/react";
 import { MainWrapper } from "@/components/MainBackground/MainContainer";
 import { Gauge, LockKeyhole, ChartLine, Scale ,CircleCheckBig,ShieldCheck ,Gamepad2,CalendarDays,UsersRound,Trophy,ChartNoAxesCombined,Gift,ShieldQuestion} from "lucide-react";

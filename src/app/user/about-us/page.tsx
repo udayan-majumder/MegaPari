@@ -7,9 +7,6 @@ import {
   HStack,
   Text,
   Button,
-  Grid,
-  Flex,
-  Center,
 } from "@chakra-ui/react";
 import { MainWrapper } from "@/components/MainBackground/MainContainer";
 export default function Aboutpage() {

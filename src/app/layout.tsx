@@ -1,7 +1,6 @@
 'use client'
 
-import type { Metadata } from "next";
-import { Geist, Geist_Mono,Poppins,Open_Sans ,Roboto,Rubik} from "next/font/google";
+import { Poppins,Open_Sans ,Roboto,Rubik} from "next/font/google";
 import "./globals.css";
 import { Provider } from "@/components/ui/provider";
 import { useEffect } from "react";

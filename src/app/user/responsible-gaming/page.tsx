@@ -1,7 +1,7 @@
 
 import { MainWrapper } from "@/components/MainBackground/MainContainer";
  import React from "react";
-import { Box, Text, Stack, Link, Button } from "@chakra-ui/react";
+import { Box, Text, Stack, Link,} from "@chakra-ui/react";
 
 export default function ResponsibleGaming() {
   return (
